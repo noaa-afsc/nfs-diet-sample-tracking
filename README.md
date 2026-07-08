@@ -6,19 +6,13 @@ Northern fur seals (laaqudax̂; Callorhinus ursinus) are top predators in the Be
 
 ## Team Members
 
-Dr. Linnea Pearson, Alaska Department of Fish and Game
-
-Tonya Zeppelin, Marine Mammal Laboratory, Alaska Fisheries Science Center
-
-Dr. Diana Baetscher, Auke Bay Laboratory, Alaska Fisheries Science Center
-
-Dr. Wes Larson, Auke Bay Laboratory, Alaska Fisheries Science Center
-
-Katie Luxa, Marine Mammal Laboratory, Alaska Fisheries Science Center
-
-Jamie Musbach, Alaska Department of Fish and Game
-
-Dr. Elizabeth Siddon, Auke Bay Laboratories, Alaska Fisheries Science Center
+*Dr. Linnea Pearson, Alaska Department of Fish and Game
+*Tonya Zeppelin, Marine Mammal Laboratory, Alaska Fisheries Science Center
+*Dr. Diana Baetscher, Auke Bay Laboratory, Alaska Fisheries Science Center
+*Dr. Wes Larson, Auke Bay Laboratory, Alaska Fisheries Science Center
+*Katie Luxa, Marine Mammal Laboratory, Alaska Fisheries Science Center
+*Jamie Musbach, Alaska Department of Fish and Game
+*Dr. Elizabeth Siddon, Auke Bay Laboratories, Alaska Fisheries Science Center
 
 ## Project Documents
 
