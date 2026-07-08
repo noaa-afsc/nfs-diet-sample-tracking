@@ -29,12 +29,12 @@ Links to Google Docs and Sheets
 [NPRB Proposal](https://docs.google.com/document/d/15UxH_oiP8m8Q41x8DYpCmFAdT1QE2VDP2XUoNyJrUfU/edit?tab=t.0) 
 
 
-## Budget tracking
+## Budget Tracking
 
 Information on the budget and links to Google Docs and Sheets
 
 [NFS Genetic Supplies Order](https://docs.google.com/spreadsheets/d/1mLF8Rp41Wb_IsT33D7IaiD5T61FRqIkrrA9YgAFSlsY/edit?gid=0#gid=0)
 
-## Inventory tracking sheet for supplies and samples
+## Sample List
 
 
