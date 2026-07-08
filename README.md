@@ -29,7 +29,8 @@ Links to Google Docs and Sheets
 [NPRB Proposal](https://docs.google.com/document/d/15UxH_oiP8m8Q41x8DYpCmFAdT1QE2VDP2XUoNyJrUfU/edit?tab=t.0) 
 
 
-## How much money do we have to spend? 
+## Budget tracking
+[Budget](https://docs.google.com/spreadsheets/d/1mLF8Rp41Wb_IsT33D7IaiD5T61FRqIkrrA9YgAFSlsY/edit?gid=0#gid=0)
 
 Information on the budget or links to a google sheet
 
