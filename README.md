@@ -24,6 +24,8 @@ Dr. Elizabeth Siddon, Auke Bay Laboratories, Alaska Fisheries Science Center
 
 Links to Google Docs and Sheets
 
+[NPRB Proposal](https://docs.google.com/document/d/15UxH_oiP8m8Q41x8DYpCmFAdT1QE2VDP2XUoNyJrUfU/edit?tab=t.0) 
+
 This is how you create a link:
 
 [this is my google document](https://google.com)
