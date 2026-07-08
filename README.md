@@ -30,9 +30,10 @@ Links to Google Docs and Sheets
 
 
 ## Budget tracking
-[Budget](https://docs.google.com/spreadsheets/d/1mLF8Rp41Wb_IsT33D7IaiD5T61FRqIkrrA9YgAFSlsY/edit?gid=0#gid=0)
 
 Information on the budget or links to a google sheet
+
+[Budget](https://docs.google.com/spreadsheets/d/1mLF8Rp41Wb_IsT33D7IaiD5T61FRqIkrrA9YgAFSlsY/edit?gid=0#gid=0)
 
 ## Inventory tracking sheet for supplies
 
