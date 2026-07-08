@@ -1,4 +1,4 @@
-# nfs-diet-sample-tracking
+# An efficient DNA-based approach to provide timely northern fur seal diet data to fisheries managers
 
 ## Project Abstract
 
