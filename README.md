@@ -37,6 +37,6 @@ Information on the budget and links to Google Docs and Sheets
 
 [NFS Genetic Supplies Order](https://docs.google.com/spreadsheets/d/1mLF8Rp41Wb_IsT33D7IaiD5T61FRqIkrrA9YgAFSlsY/edit?gid=0#gid=0)
 
-## Sample List
+
 
 
