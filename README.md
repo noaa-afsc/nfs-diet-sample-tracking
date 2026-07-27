@@ -28,6 +28,8 @@ Links to Google Docs and Sheets
 
 [NPRB Proposal](https://docs.google.com/document/d/15UxH_oiP8m8Q41x8DYpCmFAdT1QE2VDP2XUoNyJrUfU/edit?tab=t.0) 
 
+[Sample Metadata](https://docs.google.com/spreadsheets/d/19Gn82oq5ne_PSJ0aO8UxtFOog2WN1CsQmlZtumLa4TA/edit?gid=0#gid=0) 
+
 
 ## Budget Tracking
 
