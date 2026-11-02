@@ -26,21 +26,25 @@ Dr. Elizabeth Siddon, Auke Bay Laboratories, Alaska Fisheries Science Center
 
 Links to Google Docs and Sheets
 
+### Proposal 
+
 [NPRB Proposal](https://docs.google.com/document/d/15UxH_oiP8m8Q41x8DYpCmFAdT1QE2VDP2XUoNyJrUfU/edit?tab=t.0) 
+
+### Metadata 
 
 [Sample Metadata](https://docs.google.com/spreadsheets/d/19Gn82oq5ne_PSJ0aO8UxtFOog2WN1CsQmlZtumLa4TA/edit?gid=0#gid=0) 
 
-## Conference Abstracts and Presentations
+### Conference Abstracts and Presentations
 
 [2026 Society of Marine Mammalogy presentation](https://docs.google.com/presentation/d/1dNfS69vDO7SqsLO9Y52a65ZeF6sySzod/edit?usp=drive_link&ouid=110497580301996304269&rtpof=true&sd=true) 
 
 [2027 Alaska Marine Science Symposium abstract](https://drive.google.com/file/d/14VTJBArGpysy2sNiAETketXO9ChiksmS/view?usp=drive_link)
 
-## Reports and Publications
+### Reports and Publications
 
 [2027 Bering Sea ESR Noteworthy](https://docs.google.com/document/d/1_nqB4jiNrJ26KDL2LzbJgJSJaNtM_Hct3vBJRvuH_Cg/edit?tab=t.0) 
 
-## Budget Tracking
+### Budget Tracking
 
 Information on the budget and links to Google Docs and Sheets
 
