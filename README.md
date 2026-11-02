@@ -30,9 +30,6 @@ Links to Google Docs and Sheets
 
 [NPRB Proposal](https://docs.google.com/document/d/15UxH_oiP8m8Q41x8DYpCmFAdT1QE2VDP2XUoNyJrUfU/edit?tab=t.0) 
 
-### Budget Tracking
-
-[NFS Genetic Supplies Order](https://docs.google.com/spreadsheets/d/1mLF8Rp41Wb_IsT33D7IaiD5T61FRqIkrrA9YgAFSlsY/edit?gid=0#gid=0)
 
 ### Metadata 
 
@@ -47,5 +44,9 @@ Links to Google Docs and Sheets
 ### Reports and Publications
 
 [2027 Bering Sea ESR Noteworthy](https://docs.google.com/document/d/1_nqB4jiNrJ26KDL2LzbJgJSJaNtM_Hct3vBJRvuH_Cg/edit?tab=t.0) 
+
+## Budget Tracking
+
+[NFS Genetic Supplies Order](https://docs.google.com/spreadsheets/d/1mLF8Rp41Wb_IsT33D7IaiD5T61FRqIkrrA9YgAFSlsY/edit?gid=0#gid=0)
 
 
