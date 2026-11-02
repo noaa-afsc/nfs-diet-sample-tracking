@@ -30,6 +30,12 @@ Links to Google Docs and Sheets
 
 [Sample Metadata](https://docs.google.com/spreadsheets/d/19Gn82oq5ne_PSJ0aO8UxtFOog2WN1CsQmlZtumLa4TA/edit?gid=0#gid=0) 
 
+## Conference Abstracts and Presentations
+
+[2026 Society of Marine Mammalogy presentation](https://drive.google.com/drive/u/0/folders/1z8y45QvJHS0laF2-7lK6tIVoh4C5eyIl) 
+
+[Alaska Marine Science Symposium abstract]()
+
 
 ## Budget Tracking
 
