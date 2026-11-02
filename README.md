@@ -36,6 +36,9 @@ Links to Google Docs and Sheets
 
 [2027 Alaska Marine Science Symposium abstract](https://drive.google.com/file/d/14VTJBArGpysy2sNiAETketXO9ChiksmS/view?usp=drive_link)
 
+## Reports and Publications
+
+[2027 Bering Sea ESR Noteworthy](https://docs.google.com/document/d/1_nqB4jiNrJ26KDL2LzbJgJSJaNtM_Hct3vBJRvuH_Cg/edit?tab=t.0) 
 
 ## Budget Tracking
 
