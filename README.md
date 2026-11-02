@@ -32,9 +32,9 @@ Links to Google Docs and Sheets
 
 ## Conference Abstracts and Presentations
 
-[2026 Society of Marine Mammalogy presentation](https://drive.google.com/drive/u/0/folders/1z8y45QvJHS0laF2-7lK6tIVoh4C5eyIl) 
+[2026 Society of Marine Mammalogy presentation](https://docs.google.com/presentation/d/1dNfS69vDO7SqsLO9Y52a65ZeF6sySzod/edit?slide=id.p1#slide=id.p1) 
 
-[Alaska Marine Science Symposium abstract]()
+[2027 Alaska Marine Science Symposium abstract]()
 
 
 ## Budget Tracking
